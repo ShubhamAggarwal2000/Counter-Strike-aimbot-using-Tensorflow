@@ -2,4 +2,4 @@
 
 Model Used for training -  faster R-CNN
 
-![] csgo_aimbot.gif
+![](csgo_aimbot.gif)
