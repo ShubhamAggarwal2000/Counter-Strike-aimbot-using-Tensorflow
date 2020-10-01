@@ -1,5 +1,7 @@
 # Counter-Strike-aimbot-using-Tensorflow
 
-Model Used for training -  faster R-CNN
+PC Specifications - 
+i5 8250u
+940mx
 
 ![](csgo_aimbot.gif)
